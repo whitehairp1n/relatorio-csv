@@ -1,0 +1,11 @@
+unidade,morador,valor,vencimento,status
+101,Ana Souza,850.00,2026-09-10,pago
+102,Bruno Lima,850.00,2026-09-10,pendente
+103,Carla Dias,,2026-09-10,pago
+104,Diego Rocha,850.00,2026-09-10,pago
+105,Elisa Prado,850.00,2026-09-10,atrasado
+102,Bruno Lima,850.00,2026-09-10,pendente
+106,Fábio Nunes,850.00,2026-09-10,talvez
+107,Gabi Moraes,1200.00,2026-09-10,pago
+108,Hugo Reis,850.00,2026-09-10,pendente
+109,Iara Costa,850.00,2026-09-10,pago
