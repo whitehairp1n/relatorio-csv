@@ -1,0 +1,12 @@
+RELATÓRIO DE PAGAMENTOS
+-----------------------
+Linhas válidas: 7
+Total esperado: R$ 6300.00
+Total pago: R$ 3750.00
+Total em aberto: R$ 2550.00
+Inadimplência: 40.5%
+
+Problemas encontrados:
+- Valor ausente na unidade 103
+- Unidade duplicada: 102
+- Status inválido na unidade 106
