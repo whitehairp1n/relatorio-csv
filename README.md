@@ -47,7 +47,6 @@ Problemas encontrados:
 - `gerar_relatorio`: monta o texto do relatório.
 - `main`: executa tudo na ordem.
 
-## O que aprendi
 
 ## O que aprendi
 
@@ -56,7 +55,7 @@ Problemas encontrados:
 - Converter texto em número (`float`) para fazer cálculos, e deixar de fora as linhas com problema para não distorcer os totais.
 - Organizar o código em funções, cada uma com uma responsabilidade (ler, validar, calcular, gerar o relatório).
 - Usar Git e GitHub no dia a dia: um commit por etapa, deixando o histórico do projeto registrado.
-- O que foi mais difícil: entender o recuo (identação) do Python e o que fica dentro do for e do ifç
+- O que foi mais difícil: entender o recuo (identação) do Python e o que fica dentro do for e do if;
 
 ## Próximos passos
 
